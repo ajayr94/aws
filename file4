@@ -1,0 +1,8 @@
+Linux booting process
+it includes 6 steps
+1.BOIS
+2.MBR
+3.GRUB
+4.Kernel
+5.Init
+6.Runlevel Programs

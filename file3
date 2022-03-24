@@ -1,0 +1,7 @@
+shell is the linux command line interpreter. It provides an inetrface between the user and kernel.
+Different types
+1. Bash
+2. Tcsh
+3. Kshell
+4. Z-shell
+
